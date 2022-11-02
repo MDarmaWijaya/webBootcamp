@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webBootcamp/static/css/main.a102879e.css",
+    "main.js": "/webBootcamp/static/js/main.79ff254e.js",
+    "static/js/787.b8db6730.chunk.js": "/webBootcamp/static/js/787.b8db6730.chunk.js",
+    "static/media/Hero3.png": "/webBootcamp/static/media/Hero3.a82a04f8d2d70a74b948.png",
+    "static/media/Hero1.png": "/webBootcamp/static/media/Hero1.7183ee867d8121513c74.png",
+    "static/media/Hero2.png": "/webBootcamp/static/media/Hero2.73188c2aee483da763ca.png",
+    "static/media/datascient.png": "/webBootcamp/static/media/datascient.6be424b951d91a0e8416.png",
+    "static/media/Hero4.png": "/webBootcamp/static/media/Hero4.c81482aaacd72bde819c.png",
+    "static/media/webdevelopper.png": "/webBootcamp/static/media/webdevelopper.985925dfd6caf11eedb8.png",
+    "static/media/copywriter.png": "/webBootcamp/static/media/copywriter.f93f1e773b557ffae258.png",
+    "index.html": "/webBootcamp/index.html",
+    "main.a102879e.css.map": "/webBootcamp/static/css/main.a102879e.css.map",
+    "main.79ff254e.js.map": "/webBootcamp/static/js/main.79ff254e.js.map",
+    "787.b8db6730.chunk.js.map": "/webBootcamp/static/js/787.b8db6730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.79ff254e.js"
+  ]
+}
